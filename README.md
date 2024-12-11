@@ -15,8 +15,14 @@ Tom Windeatt,
 
 *Graphic Designer:*
 
-Max Billington,
+Max Billington
 
 *Tester*
 
 Jacob Pickering
+
+*Translators*
+
+Japanese: Lucas Grant
+
+Spanish: Mikel Navaridas Maestre
